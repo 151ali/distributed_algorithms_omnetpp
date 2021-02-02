@@ -11,7 +11,7 @@
 - Wake-up
   - Wflood
 - Traversal
-  - Terry Traversal
+  - Tarry Traversal
   - DFT_traversal_v0
   - DFT_traversal_v1
   - DFT_traversal_v2
