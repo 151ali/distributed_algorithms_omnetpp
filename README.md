@@ -34,6 +34,7 @@
   - center_finding (based on saturation)
   - Tree_center_finding_BFT
   - Chandy_Lamport (snapshot)
+  - Processus_Noir
   - p2p_centralisee
   
 ## Contributing
