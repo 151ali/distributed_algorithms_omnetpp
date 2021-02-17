@@ -1,4 +1,5 @@
 # Distributed_algorithms_omnetpp
+Implementation of some distributed algorithm in OMNeT++ Discrete Event Simulator. 
 ## Requirements
 - Ubuntu 16.04
 - [OMNeT++ 5.6.2](https://omnetpp.org/download/)
@@ -42,7 +43,9 @@
   - p2p_centralisee
   
 ## Contributing
-feel free  
+I appreciate your help!
+In order to contribute, please read the [guidelines](https://github.com/151ali/distributed_algorithms_omnetpp/blob/main/contributing/guide.md)
+feel free to contact me.  
 ## Copyright and License
 
 this repo is licensed under the [MIT License](LICENSE.md).
