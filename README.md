@@ -1,5 +1,9 @@
-# distributed_algorithms_omnetpp
-
+# Distributed_algorithms_omnetpp
+## Requirements
+- Ubuntu 16.04
+- [OMNeT++ 5.6.2](https://omnetpp.org/download/)
+ 
+# Contents
 - Introduction to Omnet++
   - lab1
   - TicToc
