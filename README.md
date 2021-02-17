@@ -44,7 +44,9 @@ Implementation of some distributed algorithm in OMNeT++ Discrete Event Simulator
   
 ## Contributing
 I appreciate your help!
-In order to contribute, please read the [guidelines](https://github.com/151ali/distributed_algorithms_omnetpp/blob/main/contributing/guide.md)
+
+In order to contribute, please read the [guidelines](https://github.com/151ali/distributed_algorithms_omnetpp/blob/main/contributing/guide.md).
+
 feel free to contact me.  
 ## Copyright and License
 
