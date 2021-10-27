@@ -1,5 +1,12 @@
 # Distributed_algorithms_omnetpp
 Implementation of some distributed algorithm in OMNeT++ Discrete Event Simulator. 
+
+**University students beware!** 
+
+If you’re a student in a Distributed systems class, you shouldn’t copy (or copy then modify) this code without permission. And even then, I would advise against heavily relying on this code because it may contains a lot of errors.
+You should alternativelly inspirate from it, you may find better ideas to resolve these problems.
+
+
 ## Requirements
 - Ubuntu 16.04
 - [OMNeT++ 5.6.2](https://omnetpp.org/download/)
